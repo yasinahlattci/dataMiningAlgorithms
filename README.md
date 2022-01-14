@@ -1,3 +1,3 @@
 # dataMiningAlgorithms
 
-# Pamukkale University Graduation thesis
+#### Pamukkale University Graduation thesis
